@@ -6,7 +6,7 @@ const { ethers } = require('ethers');
 const API_KEY = process.env.API_KEY;
 
 // Define an Alchemy Provider
-const provider = new ethers.providers.AlchemyProvider('sepolia', API_KEY)
+const provider = new ethers.providers.JsonRpcProvider(process.env.API_URL)
 
 const contract = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
 
