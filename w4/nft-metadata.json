@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "IQ",
+      "value" : "180+"
+    }, {
+      "trait_type" : "Mental Status",
+      "value" : "Broken"
+    } ],
+    "description" : "Sheldon's Spot",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmc93ZZJvefBaipTjMsCGeqPKLnF4aXQpoCQq2uimAAkor",
+    "name" : "SS"
+}
